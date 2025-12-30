@@ -146,9 +146,8 @@ This project demonstrates how transactional sales data can be transformed into a
 
 ## 5. Tools and Technologies Used 
 
-- **SQL** – Data analysis using joins, aggregations, CTEs, window functions, views and date-based calculations
-- **PostgreSQL** – Database hosting
-- **DBeaver** – Executing SQL queries, exploring schemas, and validating results
+- **PostgreSQL** – Database 
+- **DBeaver, PGAdmin** – Analysis tools
 - **VS Code** – Managing SQL scripts and project files
 - **AI-powered Visualizations** – Creating charts to highlight trends
 
