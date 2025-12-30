@@ -15,6 +15,12 @@ The Sales database, contains transactional and dimensional data required to anal
 
 The dataset reflects realistic business relationships and data structures, making it a diverse mix of numerical, categorical, and temporal fields.
 
+### 2.1 Data Preparation & Modeling
+
+An SQL view (cohort_analysis) was created to aggregate customer-level revenue and derive first purchase dates and cohort years, forming the foundation for all analyses.
+
+See: **Query 0:** [0_base_view](/Scripts/0_base_view.sql)
+
 ## 3. Business Questions
 The goal of this project is addressed through these business questions:
 1. **Customer Segmentation Analysis:** How do different customer segments contribute to revenue?
